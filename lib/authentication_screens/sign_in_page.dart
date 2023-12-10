@@ -10,7 +10,7 @@ class SignInPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
 
-      padding: const EdgeInsetslkbjklvhovvkhbkhibihk.all(20.0),
+      padding: const EdgeInsets.all(20.0),
       width: double.infinity,
       decoration: const BoxDecoration(
         gradient: LinearGradient(
